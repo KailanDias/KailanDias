@@ -25,11 +25,11 @@
 
 <div align="center">
   <a >
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=kailandias&show_icons=true&theme=holi" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=kailandias&show_icons=true&theme=holi" />
   </a>
   <a></a>
   <a>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailandias&layout=compact&theme=holi&langs_count=6" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailandias&layout=compact&theme=holi&langs_count=6" />
   </a>
 </div>
 <br>
