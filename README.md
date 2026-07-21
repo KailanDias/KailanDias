@@ -3,7 +3,7 @@
 Olá 👋 Eu sou Kailan Dias
 </h1>
 <p align="center">
-Desenvolvedor Back-end Java • Engenharia de Software • Spring Boot
+Desenvolvedor Back-end Java • Engenheiro de Software • Spring Boot
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=23414c&size=28&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end+Java;Java+%7C+Spring+Boot;APIs+REST+%7C+Banco+de+Dados;Engenharia+de+Software;Sempre+Aprendendo+Novas+Tecnologias"/>
